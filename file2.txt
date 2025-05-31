@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 skvbskjbvkbv
+=======
+fishes
+hens
+sparrows
+sea
+chicken
+>>>>>>> 3f25fcc (commit1)
